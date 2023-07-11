@@ -31,4 +31,11 @@
   "profile": {
     "name": "typicode"
   },
+  "user": [
+    {
+      "id": 1,
+      "name": "Jerry",
+      "age": 25
+    }
+  ]
 }
