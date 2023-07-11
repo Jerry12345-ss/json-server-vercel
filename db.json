@@ -30,5 +30,27 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "Name": "Biscotte Restaurant",
+                "Description": "Welcome to Biscotte restaurant! Restaurant Biscotte offers a cuisine based on fresh, quality products, often local, organic when possible, and always produced by passionate producers.",
+                "createdAt": "2023-07-11T02:05:07.798Z",
+                "updatedAt": "2023-07-11T02:10:30.623Z",
+                "publishedAt": "2023-07-11T02:10:30.620Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "Name": "KFC",
+                "Description": "Another fast food restaurant",
+                "createdAt": "2023-07-11T03:12:51.037Z",
+                "updatedAt": "2023-07-11T03:41:38.949Z",
+                "publishedAt": "2023-07-11T03:12:51.035Z"
+            }
+        }
+    ],
 }
